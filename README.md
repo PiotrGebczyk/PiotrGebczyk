@@ -1,4 +1,4 @@
-Tylko dajcie mu czas,
+Tylko dajcie mu czas,<br>
 Dajcie czasowi czas.
 <!---
 PiotrGebczyk/PiotrGebczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
